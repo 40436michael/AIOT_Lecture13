@@ -173,7 +173,8 @@ with open(output_file, 'w', newline='', encoding='utf-8-sig') as f:
 
 * 範例截圖：
 
-![CSV 範例](./screenshot_movie.png)
+<img width="800" height="676" alt="image" src="https://github.com/user-attachments/assets/a9d153f5-f14f-405c-a38b-a6e0999f40c4" />
+
 
 ---
 
@@ -209,4 +210,5 @@ with open(output_file, 'w', newline='', encoding='utf-8-sig') as f:
 
 
 ---
+
 
