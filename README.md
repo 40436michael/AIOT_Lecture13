@@ -30,7 +30,6 @@
 
 ```
 https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0010-001?
-Authorization=CWA-1FFDDAEC-161F-46A3-BE71-93C32C52829F&downloadType=WEB&format=JSON
 ```
 
 * Python 範例程式碼：
@@ -113,7 +112,9 @@ st.dataframe(df)
 
 * 範例截圖：
 
-![Streamlit 顯示天氣資料](./screenshot_weather.png)
+<img width="1763" height="588" alt="image" src="https://github.com/user-attachments/assets/8d6dd2a1-4c3a-4cb0-90bb-c55f22707ebb" />
+<img width="1190" height="798" alt="image" src="https://github.com/user-attachments/assets/b9db98b8-313f-43e6-a143-4cd28077feca" />
+
 
 ---
 
@@ -204,5 +205,6 @@ with open(output_file, 'w', newline='', encoding='utf-8-sig') as f:
 * Streamlit 可自訂篩選條件、日期範圍、地點
 * 爬蟲程式包含延遲，避免封鎖
 * CSV 與 SQLite DB 結構簡單，方便後續分析
+
 
 ---
