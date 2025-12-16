@@ -3,3 +3,4 @@ pandas
 matplotlib
 seaborn
 sqlite3
+matplotlib.pyplot
