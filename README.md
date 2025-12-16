@@ -31,6 +31,7 @@
 ```
 https://opendata.cwa.gov.tw/fileapi/v1/opendataapi/F-A0010-001?
 ```
+<img width="657" height="1671" alt="image" src="https://github.com/user-attachments/assets/94044ede-c5f9-4a9d-9221-4b1d85237b50" />
 
 * Python 範例程式碼：
 
@@ -208,3 +209,4 @@ with open(output_file, 'w', newline='', encoding='utf-8-sig') as f:
 
 
 ---
+
