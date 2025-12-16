@@ -1,7 +1,3 @@
-太好了，我幫你把 README 改成漂亮版，支援圖片插入、程式碼區塊高亮、表格清楚排版。下面你可以直接貼圖片路徑或 URL。
-
----
-
 # Lecture 13 課堂練習 — 資料爬蟲 + SQLite + Streamlit
 
 ## 專案簡介
@@ -213,6 +209,7 @@ with open(output_file, 'w', newline='', encoding='utf-8-sig') as f:
 
 
 ---
+
 
 
 
