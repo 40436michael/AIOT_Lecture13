@@ -13,7 +13,8 @@
    * 下載 JSON 資料，解析各地區天氣資訊
    * 存入 SQLite 資料庫 `data.db`
    * 使用 Streamlit 顯示資料表格與資料分析
-   https://aiotlecture13-es4px9tnrrqfte6xe2qeju.streamlit.app/
+   * streamlit 網址
+[https://aiotlecture13-es4px9tnrrqfte6xe2qeju.streamlit.app/](https://aiotlecture13-es4px9tnrrqfte6xe2qeju.streamlit.app/)
      
 
 2. **電影網站爬蟲 (SSR1)**
@@ -212,6 +213,7 @@ with open(output_file, 'w', newline='', encoding='utf-8-sig') as f:
 
 
 ---
+
 
 
 
